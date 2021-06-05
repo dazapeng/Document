@@ -50,8 +50,4 @@ nohup ./bin/geth --datadir /data/geth/goerli \
 
 ```
 
-## (6) 更多技术支持请加微信群。
-
-###### 技术支持网站 https://xidusoft.com
-
-![avatar](https://xidusoft.com/wp-content/uploads/2021/03/swarm-1-768x586.png)
+ 
